@@ -53,7 +53,7 @@ def division(operand_one, operand_two):
     Returns:
         int or float: operand_one * operand_two
     """
-    result = operand_one / operand_two
+    result = operand_two / operand_one
     return result
 
 
